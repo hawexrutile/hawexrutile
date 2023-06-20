@@ -1,22 +1,12 @@
 
-
-<a href="https://www.instagram.com/hawexrutile/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/hawexrutile">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/hawexrutile">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hawexrutile/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=hawexrutile.hawexrutile)
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fhawexrutile&style=for-the-badge&logo=twitter&logoColor=ffffff&label=twitter&labelColor=7f3ace&color=7f3ace)
+![Discord](https://img.shields.io/twitter/url?url=https%3A%2F%2Fdiscord.gg%2Fhawexrutile&style=for-the-badge&logo=discord&logoColor=ffffff&label=Discord&labelColor=7f3ace&color=7f3ace)
+![Instagram](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fhawexrutile%2F&style=for-the-badge&logo=Instagram&logoColor=ffffff&label=Instagram&labelColor=7f3ace&color=7f3ace)
+![linkedin](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhawexrutile%2F&style=for-the-badge&logo=linkedin&logoColor=ffffff&label=Linkedin&labelColor=7f3ace&color=7f3ace)
 
 ### Hi there 👋
 <br />
+
 
 I'm [Alan](https://hawexrutile.github.io/Portfolio/main/index.html). I do a lot of shi...
 
@@ -34,11 +24,17 @@ I'm [Alan](https://hawexrutile.github.io/Portfolio/main/index.html). I do a lot 
 
 <!--END_SECTION:waka-->
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hawexrutile&show_icons=true&theme=midnight-purple" alt="hawexrutile" />
+  
+### Interests
 
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hawexrutile&show_icons=true&theme=gotham" alt="hawexrutile" />
+```text
+HEP 💥
+Fluid Simulation 💦
+Web development 🕸️
+screwing over people... 🪛
+```
+<img src="https://wallpapers.com/images/featured/cyberpunk-city-dpqrj66joh42kt7d.jpg" alt="WordCloud" width="100%">
 
 
 
