@@ -29,10 +29,10 @@ I'm [Alan](https://hawexrutile.github.io/Portfolio/main/index.html). I do a lot 
 ### Interests
 
 ```text
-HEP 💥
-Fluid Simulation 💦
-Web development 🕸️
-screwing over people... 🪛
+💥 HEP 
+💦 Fluid Simulation 
+🕸️ Web development 
+🪛 screwing over people... 
 ```
 <img src="https://wallpapers.com/images/featured/cyberpunk-city-dpqrj66joh42kt7d.jpg" alt="WordCloud" width="100%">
 
