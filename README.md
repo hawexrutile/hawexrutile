@@ -1,8 +1,8 @@
 
-![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fhawexrutile&style=for-the-badge&logo=twitter&logoColor=ffffff&label=twitter&labelColor=7f3ace&color=7f3ace)
-![Discord](https://img.shields.io/twitter/url?url=https%3A%2F%2Fdiscord.gg%2Fhawexrutile&style=for-the-badge&logo=discord&logoColor=ffffff&label=Discord&labelColor=7f3ace&color=7f3ace)
-![Instagram](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fhawexrutile%2F&style=for-the-badge&logo=Instagram&logoColor=ffffff&label=Instagram&labelColor=7f3ace&color=7f3ace)
-![linkedin](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhawexrutile%2F&style=for-the-badge&logo=linkedin&logoColor=ffffff&label=Linkedin&labelColor=7f3ace&color=7f3ace)
+[![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fhawexrutile&style=for-the-badge&logo=twitter&logoColor=ffffff&label=twitter&labelColor=7f3ace&color=7f3ace)](https://twitter.com/hawexrutile)
+[![Discord](https://img.shields.io/twitter/url?url=https%3A%2F%2Fdiscord.gg%2Fhawexrutile&style=for-the-badge&logo=discord&logoColor=ffffff&label=Discord&labelColor=7f3ace&color=7f3ace)](https://discord.gg/hawexrutile)
+[![Instagram](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fhawexrutile%2F&style=for-the-badge&logo=Instagram&logoColor=ffffff&label=Instagram&labelColor=7f3ace&color=7f3ace)](https://www.instagram.com/hawexrutile/)
+[![linkedin](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhawexrutile%2F&style=for-the-badge&logo=linkedin&logoColor=ffffff&label=Linkedin&labelColor=7f3ace&color=7f3ace)](https://www.linkedin.com/in/hawexrutile/)
 
 ### Hi there 👋
 <br />
