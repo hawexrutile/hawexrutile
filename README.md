@@ -37,5 +37,7 @@ I'm [Alan](https://hawexrutile.github.io/Portfolio/main/index.html). I do a lot 
 ```
 <img src="https://wallpapers.com/images/featured/cyberpunk-city-dpqrj66joh42kt7d.jpg" alt="WordCloud" width="100%">
 
+[![Readme Quotes](<https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author=A wise Man&quote=A wise man once said - make great READMEs>)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
