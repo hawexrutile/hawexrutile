@@ -4,8 +4,6 @@
 [![Instagram](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fhawexrutile%2F&style=for-the-badge&logo=Instagram&logoColor=ffffff&label=Instagram&labelColor=7f3ace&color=7f3ace)](https://www.instagram.com/hawexrutile/)
 [![linkedin](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhawexrutile%2F&style=for-the-badge&logo=linkedin&logoColor=ffffff&label=Linkedin&labelColor=7f3ace&color=7f3ace)](https://www.linkedin.com/in/hawexrutile/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hawexrutile.hawexrutile&left_color=purple&right_color=purple)
-
 ### Hi there 👋
 <br />
 
