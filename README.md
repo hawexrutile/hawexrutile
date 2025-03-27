@@ -9,7 +9,7 @@
 <br />
 
 
-I'm [Alan](https://hawexrutile.github.io/Portfolio/main/index.html).
+I'm [Alan](https://hawexrutile.github.io/Portfolio/main/index.html).I have a physics background with a strong focus on data analysis and a growing interest in machine learning. My experience includes working with complex datasets through research in fluid simulations and statistical physics. I enjoy scripting, automation, and finding ways to optimize workflows through technology. Always eager to learn and explore new challenges in data science!
 
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
