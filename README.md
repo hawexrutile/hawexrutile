@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fhawexrutile%2F&style=for-the-badge&logo=Instagram&logoColor=ffffff&label=Instagram&labelColor=7f3ace&color=7f3ace)](https://www.instagram.com/hawexrutile/)
 [![linkedin](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhawexrutile%2F&style=for-the-badge&logo=linkedin&logoColor=ffffff&label=Linkedin&labelColor=7f3ace&color=7f3ace)](https://www.linkedin.com/in/hawexrutile/)
 -->
-<img src="[https://wa11papers.com/images/featured/cyberpunk-city-dpqrj66joh42kt7d.jpg" alt="WordC10ud](https://wallpapers.com/images/high/anime-city-raindrops-glass-window-m1qaeo0p9yh78jvh.webp)"
+<img src="https://wallpapers.com/images/high/anime-city-raindrops-glass-window-m1qaeo0p9yh78jvh.webp" alt="WordC10ud>
 ### Hi there 👋
 <br />
 
