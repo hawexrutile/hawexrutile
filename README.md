@@ -31,9 +31,9 @@ I'm [Alan](https://hawexrutile.github.io/Portfolio/main/index.html).I have a phy
 
 ```text
 💥 HEP 
-💦 Fluid Simulation 
-🔭 Astro & Cosmo
-🕸️ Web Development 
+🕸️ Web Development
+💻 Data Science and AI
+💦 Soft Condensed Matter
 ```
 
 
